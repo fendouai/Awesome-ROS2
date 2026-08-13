@@ -136,10 +136,9 @@ Space ROS Community Meeting June 16th, 2023.
 
 ### Simulation
 
+## 👨🏻‍💻 Development tools
 
-### 👨🏻‍💻 Development tools
-
-## IDEs
+### IDEs
 
 | Title | Links |
 | ------------- | ------------- |
@@ -155,7 +154,6 @@ Space ROS Community Meeting June 16th, 2023.
 | **Update on ROS native buffers**  | [Link](https://discourse.openrobotics.org/t/update-on-ros-native-buffers/51771) |
 |ROS2 RAG: A Retrieval-Augmented Generation pipeline for ROS2|[Link](https://discourse.openrobotics.org/t/ros2-rag-a-retrieval-augmented-generation-pipeline-for-ros2/51685)|
 |Announcing ROS 2 Easy Mode|[Link](https://discourse.openrobotics.org/t/announcing-ros-2-easy-mode/41974)|
-
 
 ## ☝️Tips, recommendations
 
@@ -179,6 +177,10 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 [website](https://ajime.io)
 
 ## Awesome ROS2 lists
+
+**Awesome ROS packages**
+
+[Link](https://github.com/vovaekb/awesome_ros_packages_and_tools)
 
 **by fkromer**
 
