@@ -15,7 +15,7 @@ new frameworks, libraries, and tools introduced in the ROS 2 ecosystem.
 
 [link to Discourse](https://discourse.openrobotics.org/t/acm-computing-surveys-ros-2-in-a-nutshell-a-survey/54345)
 
-## Study resources
+## 🎓 Study resources
 
 ### 📚 Books 
 
@@ -36,7 +36,7 @@ new frameworks, libraries, and tools introduced in the ROS 2 ecosystem.
 | **Open Sourcing ROS Developer Learning Path 2.0 by Robocademy** | [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy) |
 | **ROS2 — Введение в робототехнику (Народный курс), course on Russian** | [link](https://stepik.org/course/221157/promo) |
 
-### Tutorials
+### 👨‍🏫 Tutorials
 
 | Title | Description | Link |
 | ------------- | ------------- | ------------- |
@@ -124,12 +124,20 @@ Space ROS Community Meeting June 16th, 2023.
 | **The UZH FPV Dataset** | [Link](https://fpv.ifi.uzh.ch/datasets/) |
 
 
-### Personal blogs on ROS2
+### 📇 Personal blogs on ROS2
 
-## Simulation
+**Automatic Addison (Addison Sears-Collins)**
+
+[link](https://automaticaddison.com/)
+
+**Articulated Robotics (Josh Newans)**
+
+[link](https://articulatedrobotics.xyz/)
+
+### Simulation
 
 
-### Development tools
+### 👨🏻‍💻 Development tools
 
 ## IDEs
 
@@ -149,7 +157,7 @@ Space ROS Community Meeting June 16th, 2023.
 |Announcing ROS 2 Easy Mode|[Link](https://discourse.openrobotics.org/t/announcing-ros-2-easy-mode/41974)|
 
 
-## Tips, recommendations
+## ☝️Tips, recommendations
 
 **ROS2 best practices**
 
@@ -162,7 +170,7 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 [github](https://github.com/henki-robotics/henki_ros2_best_practices)
 
 
-## Robotics in production
+## 🏭 Robotics in production
 
 **Ajime CI/CD platform**
 
@@ -202,7 +210,7 @@ Companies, labs, and projects using ROS across domains from logistics and agricu
 
 [Announcement on Discourse](https://discourse.openrobotics.org/t/350-ros-and-gazebo-jobs-hope-this-helps/51851)
 
-## ROS communities and initiatives
+## 👥 ROS communities and initiatives
 
 | Title | Link |
 | ------------- | ------------- |
