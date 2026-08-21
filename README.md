@@ -22,6 +22,7 @@ new frameworks, libraries, and tools introduced in the ROS 2 ecosystem.
 | Title | Link |
 | ------------- | ------------- |
 | ROS 2: Zero to Robot | [link](https://pouya-mansournia.github.io/ros2-zero-to-robot/) | 
+| Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms | [link](https://www.amazon.com/Introduction-Autonomous-Robots-Mechanisms-Algorithms/dp/0262047551) |
 | Swarm Robotics, A Formal Approach | [link](https://link.springer.com/book/9783032105837) | 
 | Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) | [link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049) |
 | Mastering ROS 2 for Robotics Programming, Lentin joseph|[link](https://www.packtpub.com/en-us/product/mastering-ros-2-for-robotics-programming-9781836209003)|
